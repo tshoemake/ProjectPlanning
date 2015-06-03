@@ -1,0 +1,5 @@
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\PPDAO\bin\Debug\PPDAO.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\PPDAO\bin\Debug\PPDAO.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\PPDAO\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\PPDAO\obj\Debug\PPDAO.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\PPDAO\obj\Debug\PPDAO.pdb

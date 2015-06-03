@@ -1,0 +1,72 @@
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\ProjectPlanning.dll.config
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\ProjectPlanning.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\ProjectPlanning.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Antlr3.Runtime.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.Core.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\EntityFramework.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\System.Web.Optimization.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\System.Web.Providers.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\WebGrease.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\EntityFramework.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.Core.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\obj\Debug\ProjectPlanning.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\obj\Debug\ProjectPlanning.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning\ProjectPlanning\obj\Debug\ProjectPlanning.csprojResolveAssemblyReference.cache
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\ProjectPlanning.dll.config
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\ProjectPlanning.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\ProjectPlanning.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Antlr3.Runtime.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.Core.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\EntityFramework.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\System.Web.Optimization.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\System.Web.Providers.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\WebGrease.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\EntityFramework.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.Core.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\obj\Debug\ProjectPlanning.csprojResolveAssemblyReference.cache
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\obj\Debug\ProjectPlanning.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\obj\Debug\ProjectPlanning.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Business.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\PPDAO.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\Business.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\ProjectPlanning\bin\PPDAO.pdb

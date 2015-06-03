@@ -1,0 +1,7 @@
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\Business\bin\Debug\Business.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\Business\bin\Debug\Business.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\Business\bin\Debug\PPDAO.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\Business\bin\Debug\PPDAO.pdb
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\Business\obj\Debug\Business.dll
+C:\Users\tshoemake\Documents\Visual Studio 2013\Projects\ProjectPlanning with Delete\Business\obj\Debug\Business.pdb
